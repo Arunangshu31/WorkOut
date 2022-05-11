@@ -13,8 +13,7 @@
             Console.WriteLine(Convert.ToString(r3, 2) + "        " + r3LeftShift8 + "        " + Convert.ToString(r3LeftShift8, 2));
             Console.WriteLine(ans + "   " + ans2);
             Console.WriteLine();
-            Console.ReadLine();
-            //creating merge conflict ha ha ha
+            
         }
     }
 }
